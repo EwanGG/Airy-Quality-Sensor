@@ -13,6 +13,6 @@ This project is an air quality sensor using Raspberry Pi.
 
 | Role | Responsibilty |
 |------|---------------|
-| Computer Science | backend and Raspberry Pi programming |
+| Computer Science | Backend and Raspberry Pi programming |
 | Data Science | Data processing |
-| Cyber Security | secure communication |
+| Cyber Security | Secure communication |
