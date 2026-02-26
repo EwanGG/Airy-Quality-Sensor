@@ -39,4 +39,4 @@ def trigger_alert(value):
 
 while True:
     check_air_quality()
-    time.sleep(5)
+    time.sleep(10)
