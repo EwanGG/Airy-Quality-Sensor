@@ -10,4 +10,3 @@ def get_gps_data():
         if data.startswith('GPS'):
             msg = pynmea2.parse(data)
             return msg.latitude, msg.longitude
-
